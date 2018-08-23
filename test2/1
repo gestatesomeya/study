@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="study2.css"> 
+
+
+</head>
+<body>
+<div id="wrapper">
+
+ <div id="big1">
+   <div class="menu">
+     <img src="../logo.png">
+     <h1>with you</h1>
+     <h3>VENVENUS LIMITED COLECTION</h3>
+     <p>"THE FILM OF BED STORY"</p>
+     <p>SPECIAL IMAGINATION BRAND SITE</p>
+   </div>
+ </div>
+
+  <div class="menu1" "rr">
+   <img src="../logo.png">
+
+  </div>
+
+<div id="menu2" class="rr">
+<ul>
+<li>HOME</li><!--
+--><li>WHO WE ARE</li><!--
+--><li>ONLINE SHOP</li><!--
+--><li>LOOKBOOK</li><!--
+--><li>SHOWROOM</li><!--
+--><li>NEWS & TOPICS</li><!--
+--><li>JOBS</li><!--
+--><li>CONTACT</li><!--
+--></ul>
+</div>
+
+  <div class="menu3" "rr">
+   <h1>with you</h1>
+   <h3>Bed is not just for sleep.</h3> 
+   <h2>It always envelops you in a warm hug,</h2> 
+   <h2>and give you a new day like family.</h2> 
+   <p>ベッドは、ただ寝るための家具ではありません。</p> 
+   <p>どんな時でもそっとあなたを包み込み、</p>
+   <p>新しい一日を与えてくれる 「家族」のような存在です。</p> 
+   <p>だからこそ、お客様お一人お一人にとって、 </p>
+   <p>心から寄り添える（with you）ベッドを。</p>
+   <p>EXPLORE</p>
+  </div><!--
+  --><div class="menu4">
+  </div>
+
+  <div class="menu5" "rr">
+   <h1>LookBook</h1>
+   <p>ルックブック</p>
+  </div>
+
+ <div id="big2" class="rr">
+  <div class="menu6">
+   <h3>LOOK BOOK</h3>
+   <h1>NO.1</h1>
+  </div>
+ </div>
+
+
+</div>
+
+</body>
+</html>
